@@ -5,6 +5,8 @@ allows devices to use the internet connection of the computer they are plugged
 on. It does not require any _root_ access (neither on the device nor on the
 computer). It works on _GNU/Linux_, _Windows_ and _Mac OS_.
 
+这个项目为android提供了**反向绑定**，而不是`adb`4允许设备使用所插入计算机的互联网连接五上。它不需要任何_root_访问（既不在设备上，也不在设备上）6电脑）。它适用于_gnu / linux_，_windows_和_mac os_。
+
 Currently, it relays [TCP] and [UDP] over [IPv4] traffic, but it does not
 support [IPv6] (yet?).
 
